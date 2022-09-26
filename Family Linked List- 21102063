@@ -27,7 +27,7 @@ int main(){
     node *mother=new node("URMILA DEVI",50);
     node *myself=new node("ADITYA KUMAR SINGH",19);
     node *sister=new node("HARNOOR",10);
-    node *brother=new node("ANEEK SINGH",12);
+    node *brother=new node("Amrit",12);
 
     node *head=father;
 
