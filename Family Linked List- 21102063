@@ -23,11 +23,11 @@ void printtheLL(node *head){
 }
 
 int main(){
-    node *father=new node("UPENDRA SINGH",45);
-    node *mother=new node("SUNITA SINGH",43);
-    node *myself=new node("ADITYA KUMAR SINGH",20);
-    node *sister=new node("ADITI SINGH",16);
-    node *brother=new node("ANEEK SINGH",14);
+    node *father=new node("DINA NATH",54);
+    node *mother=new node("URMILA DEVI",50);
+    node *myself=new node("ADITYA KUMAR SINGH",19);
+    node *sister=new node("HARNOOR",10);
+    node *brother=new node("ANEEK SINGH",12);
 
     node *head=father;
 
