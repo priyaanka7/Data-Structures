@@ -46,12 +46,12 @@ We Know that in circular linked list last node of linked list points to head of 
 */
 
 
-/*[Question.2]  What are the practical applications of a circular linked list? (Try to find applications in your respective fields).
+/*[Question.2]  What are the practical applications of a circular linked list? (Try to find applications in your respective fields- Civil Engg.).
 Practical applications of circular linked list are :
-1)Multiplayer Games: All the Players are kept in a Circular Linked List and the pointer keeps on moving forward as a player's chance ends.
+1)In Various Applications: Undo functionality in applications like Photoshop or Word
 2)Computing Resources: Circular Linked Lists is used to manage the computing resources of the computer.
 3)Fionacci Heap: Circular Linked List is also used in the implementation of advanced data structures such as a Fibonacci Heap.
-4)Computer Networking:Circular linked list is also used in computer networking for token scheduling.
+4)Token Scheduling: Circular linked list is also used in computer networking for token scheduling.
 5)Implementation of Data Structure: Data structures such as stacks and queues are implemented with the help of the circular linked lists.
 6)Audio/Video Streaming: Circular linked list is also used in audio and video streaming,for ex. when one copmlete audio list finishes playing in music player then it again starts playing from start.
 */
